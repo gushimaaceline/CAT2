@@ -3,7 +3,7 @@ fun main(){
     println(namesLength("Celine"))
     println(namesLength("Gushima"))
     var accountHolder = CurrentAccount(83345111,"Keza Sandra",3200000.50)
-    accountHolder.deposit(25000.00)
+    accountHolder.deposit(29000.00)
     accountHolder.withdraw(45000.00)
     accountHolder.details()
     var accountHolder2 = SavingsAccount(8937564,"Kay Linda",100000.00,2)
